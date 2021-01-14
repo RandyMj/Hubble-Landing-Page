@@ -7,19 +7,46 @@ body {
     background-color: hsl(257, 40%, 49%);
     background-image: url(../images/bg-mobile.svg);
 }
-
+/* HEADER --------------------------> */
 header {
     width: 100vw;
-    height: 60px;
+    height: 120px;
 }
 header img {
-    width: 125px;
-    height: 60px;
+    width: 130px;
+    height: 80px;
     margin-left: 30px;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
+/* MAIN-------------------------------? */
 main {
     width: 100vw;
-    height: 550px;
+    height: 650px;
 }
+.main-img {
+    width: 100vw;
+    height: 280px;
+}
+.main-img img {
+    width: 300px;
+    height: 220px;
+    margin-left: 37.5px;
+}
+.main-text {
+    width: 100vw;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.main-text h1 {
+    margin-bottom: 25px;
+}
+.main-text .main-text_paragraph {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    width: 80%;
+    margin: 0 auto;
+}
+
