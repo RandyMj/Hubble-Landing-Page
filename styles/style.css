@@ -6,7 +6,9 @@
 body {
     background-color: hsl(257, 40%, 49%);
     background-image: url(../images/bg-mobile.svg);
+    overflow: hidden;
 }
+
 /* HEADER --------------------------> */
 header {
     width: 100vw;
@@ -22,7 +24,7 @@ header img {
 /* MAIN-------------------------------? */
 main {
     width: 100vw;
-    height: 650px;
+    height: 590px;
 }
 .main-img {
     width: 100vw;
@@ -64,4 +66,20 @@ main .main-button button {
     color: hsl(257, 40%, 49%);
     font-family: 'Poppins', sans-serif;
 }
+
+/* FOOTER-----------------------------------> */
+
+footer .social {
+    display: flex;
+    width: 100vw;
+    height: 100px;
+    justify-content: center;
+}
+footer .social img {
+    width: 25px;
+    height: 25px;
+    margin: 15px;
+    margin-top: 25px;
+}
+
 
