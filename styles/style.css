@@ -49,4 +49,19 @@ main {
     width: 80%;
     margin: 0 auto;
 }
+main .main-button {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    margin-top: 30px;
+}
+main .main-button button {
+    width: 220px;
+    height: 40px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 5px 10px hsl(257, 46%, 39%);
+    color: hsl(257, 40%, 49%);
+    font-family: 'Poppins', sans-serif;
+}
 
