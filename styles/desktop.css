@@ -16,7 +16,7 @@ header img {
 main {
     display: flex;
     position: relative;
-    height: 550px;
+    height: 575px;
 }
 .main-img {
     width: 58vw;
@@ -58,7 +58,7 @@ main .main-button button:hover {
 /* FOOTER-----------------------> */
 footer .social {
     justify-content: flex-end;
-    height: 50px;
+    height: 40px;
 }
 footer .social img {
     margin-top: 10px;
