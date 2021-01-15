@@ -51,6 +51,9 @@ main .main-button button {
     height: 60px;
     font-size: 18px;
 }
+main .main-button button:hover {
+    cursor: pointer;
+}
 
 /* FOOTER-----------------------> */
 footer .social {
