@@ -1,3 +1,8 @@
+# Description:
+Layout of Huddle simple landing page. This project is proposed by Platzi who took it from Frontendmentor.
+
+Below is the Readme.md of Platzi repository.
+
 # Escuela de Desarrollo Web by Platzi - Huddle landing page with single introductory section
 
 ![Vista previa del diseño de la página de inicio de Huddle con una única sección introductoria](./design/desktop-preview.jpg)

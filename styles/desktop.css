@@ -15,6 +15,7 @@ header img {
 /* MAIN--------------------------> */
 main {
     display: flex;
+    position: relative;
 }
 .main-img {
     width: 58vw;
@@ -42,4 +43,19 @@ main {
 }
 .main-button {
     position: absolute;
+    top: 350px;
+    left: 225px;
+}
+main .main-button button {
+    height: 60px;
+    font-size: 18px;
+}
+
+/* FOOTER-----------------------> */
+footer .social {
+    justify-content: flex-end;
+    height: 50px;
+}
+footer .social img {
+    margin-top: 0;
 }
