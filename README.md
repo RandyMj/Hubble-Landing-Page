@@ -1,5 +1,5 @@
 # Description:
-Layout of Huddle simple landing page. This project is proposed by Platzi who took it from Frontendmentor.
+Layout of Huddle simple landing page. This project is proposed by Platzi who took it from Frontendmentor. This landing page is optimized for 375px mobile devices en 1440px desktop devices.
 
 Below is the Readme.md of Platzi repository.
 
